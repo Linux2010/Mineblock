@@ -14,6 +14,7 @@
 
 ## 1-Java
 - [java](1-Java/java.md)
+- [Java内存管理与垃圾回收机制](1-Java/java-memory-management.md)
 
 ## 2-LeetCode
 - [2.1-LeetCode](2-LeetCode/leetcode/LeetCode.md)
