@@ -56,7 +56,12 @@
 
 ## 6-AI
 - [AI.md](6-AI/AI.md)
- 
+- [Agent/AGI与机器人产业融合](6-AI/Agent/AGI与机器人产业融合.md)
+- [Agent/大模型Agent的发展与未来创新点](6-AI/Agent/大模型Agent的发展与未来创新点.md)
+- [Agent/function-call与mcp若干问题](6-AI/Agent/function-call与mcp若干问题.md)
+- [Agent/function-call](6-AI/Agent/function-call.md)
+- [Agent/Agent](6-AI/Agent/Agent.md)
+
 ## 7-操作系统
 - [7.1-linux](7-system/linux/linux.md)
 - [7.2-shell](7-system/shell/shell.md)
