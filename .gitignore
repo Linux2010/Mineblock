@@ -4,3 +4,5 @@ node_modules
 books/
 1-output/
 local/
+prompt/
+.prompt
