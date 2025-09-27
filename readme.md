@@ -15,6 +15,7 @@
 ## 1-Java
 - [java](1-Java/java.md)
 - [Java内存管理与垃圾回收机制](1-Java/java-memory-management.md)
+- [深入理解Java volatile：可见性与有序性的底层原理与实战](1-Java/java-memory-model.md)
 
 ## 2-LeetCode
 - [2.1-LeetCode](2-LeetCode/leetcode/LeetCode.md)
@@ -56,6 +57,7 @@
 
 ## 6-AI
 - [AI.md](6-AI/AI.md)
+- [大模型微调方法与技巧详解](6-AI/大模型微调方法与技巧详解.md)
 - [Agent/AGI与机器人产业融合](6-AI/Agent/AGI与机器人产业融合.md)
 - [Agent/大模型Agent的发展与未来创新点](6-AI/Agent/大模型Agent的发展与未来创新点.md)
 - [Agent/function-call与mcp若干问题](6-AI/Agent/function-call与mcp若干问题.md)
