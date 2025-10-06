@@ -62,7 +62,8 @@
 - [spark](5-Bigdata/spark/spark.md)
 - [flink](5-Bigdata/flink/flink.md)
 
-### 6-AI - 人工智能技术专区
+### 6-AI - 人工智能技术与应用
+- [AI Agent：重塑未来智能的核心驱动力](6-AI/Agent/AI-Agent-重塑未来智能的核心驱动力-20251006.md)
 - [AI.md](6-AI/AI.md)
 - [大模型微调方法与技巧详解-20250930](6-AI/Agent/6.大模型微调方法与技巧详解-20250930.md)
 - [AGI与机器人产业融合-20250930](6-AI/Agent/2.AGI与机器人产业融合-20250930.md)
