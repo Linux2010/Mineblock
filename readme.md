@@ -18,6 +18,7 @@
 - [Java内存管理与垃圾回收机制](1-Java/java-memory-management.md)
 - [深入理解Java volatile：可见性与有序性的底层原理与实战](1-Java/java-memory-model.md)
 - [scala](1-Java/scala.md)
+- [《JVM解密：深入理解Java虚拟机内存模型与性能调优》](1-Java/jvm-deep-dive.md)
 
 ### 2-LeetCode - 算法和数据结构练习
 - [LeetCode](2-LeetCode/leetcode/LeetCode.md)
@@ -48,6 +49,8 @@
   - [docker-nginx](3-MiddleWare/3.12-docker/docker-nginx.md)
 - [《Kubernetes详解：从核心概念到生产级架构》](3-MiddleWare/kubernetes-deep-dive.md)
 - [《GraphQL vs. REST：为你的现代应用选择正确的API架构》](3-MiddleWare/graphql-vs-rest.md)
+- [《服务网格（Service Mesh）详解：Istio入门与核心功能》](3-MiddleWare/service-mesh-istio-deep-dive.md)
+- [《消息队列深度对决：Kafka vs. RabbitMQ vs. Pulsar》](3-MiddleWare/message-queue-showdown.md)
 
 ### 4-Database - 数据库技术
 - [sql](4-Database/4.1-sql/sql.md)
@@ -61,12 +64,14 @@
 - [Hive](4-Database/4.3-Hive/Hive.md)
 - [PrestoSQL](4-Database/4.3-PrestoSQL/PrestoSQL.md)
 - [《SQL vs. NoSQL：如何为你的应用选择合适的数据库》](4-Database/sql-vs-nosql-guide.md)
+- [《PostgreSQL深度挖掘：超越基础CRUD的高级特性》](4-Database/postgresql-advanced-features.md)
 
 ### 5-Bigdata - 大数据技术
 - [spark](5-Bigdata/spark/spark.md)
 - [flink](5-Bigdata/flink/flink.md)
 - [《现代数据湖仓技术对决：Delta Lake vs. Apache Iceberg vs. Hudi》](5-Bigdata/data-lakehouse-showdown.md)
 - [《流处理双雄：Apache Flink与Spark结构化流的深度比较与选型指南》](5-Bigdata/flink-vs-spark-streaming.md)
+- [《现代数据栈的核心：dbt详解与最佳实践》](5-Bigdata/dbt-deep-dive.md)
 
 ### 6-AI - 人工智能技术与应用
 - [AI Agent：重塑未来智能的核心驱动力](6-AI/Agent/AI-Agent-重塑未来智能的核心驱动力-20251006.md)
@@ -80,6 +85,8 @@
 - [《向量数据库的崛起：深入解析AI时代的Embedding存储与检索》](6-AI/vector-database-deep-dive.md)
 - [《检索增强生成（RAG）：连接大语言模型与实时知识的桥梁》](6-AI/RAG-deep-dive.md)
 - [《LLMOps：大型语言模型运维（LLMOps）的新兴实践与挑战》](6-AI/llmops-deep-dive.md)
+- [《深入理解Transformer架构：自注意力机制与现代NLP的基石》](6-AI/transformer-architecture-deep-dive.md)
+- [《AI伦理与治理：构建负责任人工智能的原则与实践》](6-AI/ai-ethics-and-governance.md)
 
 ### 7-system - 系统相关技术
 - [linux](7-system/linux/linux.md)
@@ -94,6 +101,8 @@
 - [windows](7-system/windows/windows.md)
   - [install](7-system/windows/install.md)
 - [《基础设施即代码（IaC）：Terraform实战指南》](7-system/iac-with-terraform-guide.md)
+- [《云原生可观测性：使用Prometheus与Grafana构建监控体系》](7-system/prometheus-grafana-observability.md)
+- [《CI/CD实战：使用GitHub Actions构建自动化流水线》](7-system/github-actions-cicd-guide.md)
 
 ### 8-Python - Python语言及框架
 - [python](8-Python/python/python.md)
@@ -135,6 +144,7 @@
   - [leetcode](12-offer/offer/2-leetcode.md)
   - [database](12-offer/offer/4-database.md)
   - [bigdata](12-offer/offer/5-bigdata.md)
+- [《系统设计面试黄金法则：构建可扩展、高可用系统的模式与权衡》](12-offer/system-design-interview-guide.md)
 
 ### 13-ex - 实践经验分享
 - [金融风控](13-ex/risk.md)
