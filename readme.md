@@ -9,9 +9,9 @@
 ## 目录索引
 
 ### 0-Bookmarks - 书签和阅读材料
-- [Bookmarks](./0-Bookmarks/Bookmarks.md)
-- [books](./0-Bookmarks/books.md)
-- [金字塔原理](./0-Bookmarks/reader/金字塔原理.md)
+- [收集的网站](./0-Bookmarks/Bookmarks.md)
+- [书籍清单](./0-Bookmarks/books.md)
+- [阅读笔记](./0-Bookmarks/reader.md)
 
 ### 1-Java - Java技术栈学习资料
 - [java](1-Java/java.md)
@@ -19,6 +19,8 @@
 - [深入理解Java volatile：可见性与有序性的底层原理与实战](1-Java/java-memory-model.md)
 - [scala](1-Java/scala.md)
 - [《JVM解密：深入理解Java虚拟机内存模型与性能调优》](1-Java/jvm-deep-dive.md)
+- [《Java并发编程深度解析：从基础理论到实战应用》](1-Java/doc/1-java-concurrency-deep-dive.20250930.md)
+- [《Java 2025深度解析与技术演进》](1-Java/doc/1.Java-2025深度解析与技术演进-20250930.md)
 
 ### 2-LeetCode - 算法和数据结构练习
 - [LeetCode](2-LeetCode/leetcode/LeetCode.md)
@@ -68,6 +70,7 @@
 
 ### 5-Bigdata - 大数据技术
 - [spark](5-Bigdata/spark/spark.md)
+- [《Apache Spark核心原理与性能调优实战》](5-Bigdata/spark/spark-core-principle-and-performance-tuning.md)
 - [flink](5-Bigdata/flink/flink.md)
 - [《现代数据湖仓技术对决：Delta Lake vs. Apache Iceberg vs. Hudi》](5-Bigdata/data-lakehouse-showdown.md)
 - [《流处理双雄：Apache Flink与Spark结构化流的深度比较与选型指南》](5-Bigdata/flink-vs-spark-streaming.md)
