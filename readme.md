@@ -32,7 +32,7 @@
 - [springBoot](3-MiddleWare/3.5-springBoot/springBoot.md)
   - [prometheus-nobug](3-MiddleWare/3.5-springBoot/nobug/prometheus-nobug.md)
 - [springCloud](3-MiddleWare/3.5-springCloud/springCloud.md)
-- [springAI](3-MiddleWare/3.6-springAI/springAI.md)
+- [springAI快速入门](3-MiddleWare/3.6-springAI/springAI-start.md)
 - [mybatis](3-MiddleWare/3.7-mybatis/mybatis.md)
 - [es](3-MiddleWare/3.8-es/es.md)
   - [es安装](3-MiddleWare/3.8-es/es/install.md)
