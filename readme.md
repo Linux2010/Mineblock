@@ -46,6 +46,8 @@
   - [docker-mysql](3-MiddleWare/3.12-docker/docker-mysql.md)
   - [docker-redis](3-MiddleWare/3.12-docker/docker-redis.md)
   - [docker-nginx](3-MiddleWare/3.12-docker/docker-nginx.md)
+- [《Kubernetes详解：从核心概念到生产级架构》](3-MiddleWare/kubernetes-deep-dive.md)
+- [《GraphQL vs. REST：为你的现代应用选择正确的API架构》](3-MiddleWare/graphql-vs-rest.md)
 
 ### 4-Database - 数据库技术
 - [sql](4-Database/4.1-sql/sql.md)
@@ -58,10 +60,13 @@
   - [q&a](4-Database/4.2-oracle/oracle/q&a.md)
 - [Hive](4-Database/4.3-Hive/Hive.md)
 - [PrestoSQL](4-Database/4.3-PrestoSQL/PrestoSQL.md)
+- [《SQL vs. NoSQL：如何为你的应用选择合适的数据库》](4-Database/sql-vs-nosql-guide.md)
 
 ### 5-Bigdata - 大数据技术
 - [spark](5-Bigdata/spark/spark.md)
 - [flink](5-Bigdata/flink/flink.md)
+- [《现代数据湖仓技术对决：Delta Lake vs. Apache Iceberg vs. Hudi》](5-Bigdata/data-lakehouse-showdown.md)
+- [《流处理双雄：Apache Flink与Spark结构化流的深度比较与选型指南》](5-Bigdata/flink-vs-spark-streaming.md)
 
 ### 6-AI - 人工智能技术与应用
 - [AI Agent：重塑未来智能的核心驱动力](6-AI/Agent/AI-Agent-重塑未来智能的核心驱动力-20251006.md)
@@ -72,6 +77,9 @@
 - [function-call与mcp若干问题-20250930](6-AI/Agent/4.function-call与mcp若干问题-20250930.md)
 - [function-call-20250930](6-AI/Agent/3.function-call-20250930.md)
 - [AI-Agent技术深度解析-20250930](6-AI/Agent/1.AI-Agent技术深度解析-20250930.md)
+- [《向量数据库的崛起：深入解析AI时代的Embedding存储与检索》](6-AI/vector-database-deep-dive.md)
+- [《检索增强生成（RAG）：连接大语言模型与实时知识的桥梁》](6-AI/RAG-deep-dive.md)
+- [《LLMOps：大型语言模型运维（LLMOps）的新兴实践与挑战》](6-AI/llmops-deep-dive.md)
 
 ### 7-system - 系统相关技术
 - [linux](7-system/linux/linux.md)
@@ -85,6 +93,7 @@
   - [Karabiner-Hammerspoon](7-system/macos/Karabiner-Hammerspoon.md)
 - [windows](7-system/windows/windows.md)
   - [install](7-system/windows/install.md)
+- [《基础设施即代码（IaC）：Terraform实战指南》](7-system/iac-with-terraform-guide.md)
 
 ### 8-Python - Python语言及框架
 - [python](8-Python/python/python.md)
@@ -92,6 +101,7 @@
 - [selenium](8-Python/selenium/selenium.md)
   - [selenium-questions](8-Python/selenium/selenium-questions.md)
 - [pyspark](8-Python/pyspark/pyspark.md)
+- [《使用FastAPI构建高性能API：从入门到实战》](8-Python/fastapi-high-performance-apis.md)
 
 ### 9-utils - 工具使用指南
 - [Jmeter](9-utils/Jmeter/Jmeter.md)
