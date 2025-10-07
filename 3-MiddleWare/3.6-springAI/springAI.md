@@ -55,7 +55,7 @@ spring init --dependencies=web,ai-openai --name=spring-ai-demo spring-ai-demo
 
 ### 3. 配置API密钥
 
-在[application.properties](file:///Users/kylin/doc/ITblock/2-LeetCode/DataStruct/%E5%B0%9A%E7%A1%85%E8%B0%B7%E9%9F%A9%E9%A1%BA%E5%B9%B3%E8%80%81%E5%B8%88%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%86%E4%BA%AB/Algorithm/src/main/resources/application.properties)或[application.yml](file:///Users/kylin/doc/ITblock/2-LeetCode/DataStruct/%E5%B0%9A%E7%A1%85%E8%B0%B7%E9%9F%A9%E9%A1%BA%E5%B9%B3%E8%80%81%E5%B8%88%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%86%E4%BA%AB/Algorithm/src/main/resources/application.yml)文件中配置你的OpenAI API密钥：
+在[application.properties]()或[application.yml]()文件中配置你的OpenAI API密钥：
 
 ```properties
 spring.ai.openai.api-key=YOUR_OPENAI_API_KEY
