@@ -2,7 +2,7 @@
 
 - [pmp](pmp/pmp.md)
 - [软考](rk/rk.md)
-- [master](master/master.md)
+- [mba](master/master.md)
 
 ## todo
 
